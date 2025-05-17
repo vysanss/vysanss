@@ -8,7 +8,7 @@ I'm focused on **frontend**, **backend**, and a bit of **UI/UX design** — kind
 
 ## 🛠️ Tech Interest
 
-echnologies I'm currently interested in:
+Technologies I'm currently interested in:
 - HTML, CSS, JavaScript
 - React, TailwindCSS
 - Node.js, Express
