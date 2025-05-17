@@ -1,1 +1,41 @@
-# profil
+# 👋 Hi there! I'm Muhamad Luthfi Hamdani
+
+Welcome to my GitHub profile!  
+I'm a student at Telkom University Purwokerto who loves building and designing web applications.  
+I'm focused on **frontend**, **backend**, and a bit of **UI/UX design** — kind of a full-stack with a designer’s touch 😄
+
+---
+
+## 🛠️ Tech Stack
+
+These are the technologies I often work with:
+
+- HTML, CSS, JavaScript
+- React, TailwindCSS
+- Node.js, Express
+- Figma, Git & GitHub
+
+---
+
+## 🚀 What I'm up to
+
+Currently juggling university life while constantly exploring new things in web development.  
+Open for cool projects, collaborations, or just tech talk — feel free to reach out!
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [hmluthfihm@gmail.com](mailto:hmluthfihm@gmail.com)  
+- 📸 Instagram: [@luthfiihm_](https://instagram.com/luthfiihm_)
+
+---
+
+## 📊 GitHub Stats
+
+![Luthfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vysanss&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vysanss&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! 🌟  
