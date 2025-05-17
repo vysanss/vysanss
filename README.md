@@ -44,15 +44,14 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: top;">
+    <td>
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4?si=c9c21a730ab1467b" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
         <img src="https://github.com/user-attachments/assets/99dc0045-ddfe-4a6f-9971-878b86db416c" width="150" alt="Spotify Profile" />
-        <div style="margin-top: 8px; font-weight: bold; text-align: center;">vysanss</div>
       </a>
     </td>
     <td>
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now Playing"/>
       </a>
     </td>
   </tr>
