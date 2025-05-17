@@ -45,7 +45,7 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 <table>
   <tr>
     <td>
-   <img src="https://github.com/user-attachments/assets/c9170014-bfc1-4432-aa19-404cc245cffa" width="120" height="120" style="border-radius: 50%; object-fit: cover; display: block; border: 2px solid white;" alt="Spotify Profile Picture" />
+   <img src="https://github.com/user-attachments/assets/c9170014-bfc1-4432-aa19-404cc245cffa"/>
     </td>
     <td>
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4">
