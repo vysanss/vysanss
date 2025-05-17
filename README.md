@@ -38,4 +38,10 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ---
 
+## 🎶 Now Playing on Spotify
+
+[![Spotify](https://spotify-now-playing-kittinan.vercel.app/api/spotify)](https://open.spotify.com/user/vysanss)
+
+---
+
 Thanks for stopping by! 🌟  
