@@ -93,7 +93,7 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
     </td>
     <td style="vertical-align: top;">
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" style="max-width: 100%;" alt="Now Playing"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" style="max-width: 100%;" alt="Now Playing"/>
       </a>
     </td>
   </tr>
