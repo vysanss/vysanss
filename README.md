@@ -45,7 +45,8 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 <table>
   <tr>
     <td>
-      <img src="https://i.scdn.co/image/ab6775700000ee85ef352203ec8a2f48d68bcb65" width="100" style="border-radius: 50%;" alt="Spotify Profile Picture" />
+      <img src="https://i.scdn.co/image/ab6775700000ee85ef352203ec8a2f48d68bcb65"(https://i.scdn.co/image/ab6775700000ee85ef352203ec8a2f48d68bcb65
+) width="100" style="border-radius: 50%;" alt="Spotify Profile Picture" />
     </td>
     <td>
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4">
