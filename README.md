@@ -26,9 +26,9 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ## 📫 Get in Touch
 
-[![Gmail](https://img.shields.io/badge/hmluthfihm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmluthfihm@gmail.com)
-[![Instagram](https://img.shields.io/badge/@luthfiihm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiihm_)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4) 
+[![Gmail](https://img.shields.io/badge/hmluthfihm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmluthfihm@gmail.com)  
+[![Instagram](https://img.shields.io/badge/@luthfiihm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiihm_)  
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vysanss)
 
 ---
@@ -42,8 +42,19 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ## 🎶 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&redirect=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://i.scdn.co/image/ab6775700000ee85ef352203ec8a2f48d68bcb65" width="100" style="border-radius: 50%;" alt="Spotify Profile Picture" />
+    </td>
+    <td>
+      <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Thanks for stopping by! 🌟  
+Thanks for stopping by! 🌟
