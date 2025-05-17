@@ -40,7 +40,7 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ## 🎶 Now Playing on Spotify
 
-[![Spotify](https://spotify-now-playing-kittinan.vercel.app/api/spotify)](https://open.spotify.com/user/vysanss)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4)
 
 ---
 
