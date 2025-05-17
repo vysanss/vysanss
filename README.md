@@ -68,6 +68,8 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 [![Gmail](https://img.shields.io/badge/hmluthfihm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmluthfihm@gmail.com)  
 [![Instagram](https://img.shields.io/badge/@luthfiihm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiihm_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadluthfihamdani)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luthfiihm)  
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4)  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vysanss)
 
