@@ -40,7 +40,7 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ## 🎶 Now Playing on Spotify
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wnu8hddi2z95l8a52f2bxlrk4&redirect=true)
 
 ---
 
