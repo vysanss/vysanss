@@ -26,8 +26,8 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
 
 ## 📫 Get in Touch
 
-- 📧 Email: [hmluthfihm@gmail.com](mailto:hmluthfihm@gmail.com)  
-- 📸 Instagram: [@luthfiihm_](https://instagram.com/luthfiihm_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmluthfihm@gmail.com)
+[![Instagram](https://img.shields.io/badge/@luthfiihm_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luthfiihm_)
 
 ---
 
