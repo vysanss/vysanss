@@ -11,7 +11,7 @@ I'm focused on **frontend**, **backend**, and a bit of **UI/UX design** — kind
 These are the technologies I often work with:
 
 - HTML, CSS, JavaScript
-- TailwindCSS
+- React, TailwindCSS
 - Node.js, Express
 - Figma, Git & GitHub
 
