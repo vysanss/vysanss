@@ -88,7 +88,7 @@ Open for cool projects, collaborations, or just tech talk — feel free to reach
   <tr>
     <td style="vertical-align: top; text-align: center;">
       <a href="https://open.spotify.com/user/wnu8hddi2z95l8a52f2bxlrk4?si=c9c21a730ab1467b" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/c1a6395c-4e49-466c-905d-6b7fc99ce2a2" style="max-width: 100px; height: auto;" alt="Spotify Profile" />
+        <img src="https://github.com/user-attachments/assets/c1a6395c-4e49-466c-905d-6b7fc99ce2a2" style="max-width: 50px; height: auto;" alt="Spotify Profile" />
       </a>
     </td>
     <td style="vertical-align: top;">
