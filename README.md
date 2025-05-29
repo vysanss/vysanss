@@ -11,7 +11,6 @@ I'm focused on **frontend**, **backend**, and a bit of **UI/UX design** — kind
 Technologies I'm currently interested in:
 - HTML, CSS, JavaScript
 - React, TailwindCSS
-- Node.js, Express
 - Figma, Git & GitHub
 
 <div align="center">
